@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Font Awesome Integration
  * Description: This plugin integrate the Font Awesome library with your wordpress installation.
- * Version: 1.0
+ * Version: 1.1
  * Author: Manuel Costales
  * Author URI: http://www.manuelcostales.com
  */
