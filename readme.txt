@@ -32,5 +32,9 @@ Send me an email at mcostales@jumptoweb.com and I will answer you as soon as I c
 
 == Changelog ==
 
+= 1.1 =
+- Add compatibility with other plugins.
+- Add restriction to access the plugin directy.
+
 = 1.0 =
-Just launch the plugin!
+- Just launch the plugin!
