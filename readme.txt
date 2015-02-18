@@ -3,8 +3,8 @@
 Contributors: mcostales84
 Tags: font awesome, icons
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Tested up to: 4.1
+Stable tag: 4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,5 +32,9 @@ Send me an email at mcostales@jumptoweb.com and I will answer you as soon as I c
 
 == Changelog ==
 
+= 1.1 =
+- Add compatibility with other plugins.
+- Add restriction to access the plugin directy.
+
 = 1.0 =
-Just launch the plugin!
+- Just launch the plugin!
