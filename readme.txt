@@ -1,6 +1,7 @@
 === Font Awesome Integration ===
 
 Contributors: mcostales84
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWWTUHZWRS4DG
 Tags: font awesome, icons
 Requires at least: 3.0.1
 Tested up to: 4.1
