@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Font Awesome Integration
+ * Plugin URI: http://www.jumptoweb.com
  * Description: This plugin integrate the Font Awesome library with your wordpress installation.
  * Version: 1.1
  * Author: Manuel Costales
