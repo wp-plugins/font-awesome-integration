@@ -3,7 +3,7 @@
  * Plugin Name: Font Awesome Integration
  * Plugin URI: http://www.jumptoweb.com
  * Description: This plugin integrate the Font Awesome library with your wordpress installation.
- * Version: 2.0
+ * Version: 2.1
  * Author: Manuel Costales
  * Author URI: http://www.manuelcostales.com
  */
@@ -14,6 +14,8 @@ function add_fawesome_mc() {
 	wp_enqueue_style( 'font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
 }
 
+//enabling the ability to enter shortcodes into widgets
+add_filter('widget_text', 'do_shortcode');
 
 add_shortcode( 'fawesome', 'fawesome_shortcode_mc' );
 function fawesome_shortcode_mc( $atts ) {

@@ -5,7 +5,7 @@ Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: font awesome, icons
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,7 +23,7 @@ You can also add an icon using the shortcode [fawesome]. This shortcode has four
 - href   -> link to use in the 'a' tag
 - iclass -> classes to use in the /i/ tag
 
-*** Examples ***
+** Examples **
 
 [fawesome aclass="" target="" href="" iclass=""]
 
@@ -49,6 +49,9 @@ or
 Send me an email at mcostales@jumptoweb.com and I will answer you as soon as I can.
 
 == Changelog ==
+
+= 2.1 =
+- Enable the ability to put shorcodes into widgets (in case the theme doesn't permit it).
 
 = 2.0 =
 - Add shortcode to display font awesome icons.
