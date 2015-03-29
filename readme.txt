@@ -17,10 +17,11 @@ This plugin just add a simple shortcode to the functions.php file, which embed t
 Once installed, you can go to http://fortawesome.github.io/Font-Awesome/icons/ and check the code of the icon you want to use. Just click on the icon and copy and paste de code wherever you want to use it.
 
 You can also add an icon using the shortcode [fawesome]. This shortcode has four attributes:
-* aclass -> classes to use in the <a> tag
-* target -> target of the <a> tag (_blank, _self, _parent, _top)
-* href   -> link to use in the <a> tag
-* iclass -> classes to use in the <i> tag
+
+- aclass -> classes to use in the 'a' tag
+- target -> target of the 'a' tag (_blank, _self, _parent, _top)
+- href   -> link to use in the 'a' tag
+- iclass -> classes to use in the /i/ tag
 
 *** Examples ***
 
